@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace FullStackCodeTest_v21_07.Models
+{
+    public class UserVM
+    {
+        public Guid Id { get; set; }
+        [Required]
+        public string UserName { get; set; }
+        [Required]
+        public string Password { get; set; }
+        [Required]
+        public string FullName { get; set; }
+        [Required]
+        [EmailAddress]
+        public string Email { get; set; }
+    }
+}

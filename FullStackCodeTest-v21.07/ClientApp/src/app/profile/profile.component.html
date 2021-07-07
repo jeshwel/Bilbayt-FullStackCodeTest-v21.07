@@ -1,0 +1,6 @@
+<ng-container *ngIf="user$ | async as user">
+  <blockquote class="blockquote mt-5">
+    <h2>Welcome {{ user.fullName }} !!</h2>
+    <div>{{ user.email }}</div>
+  </blockquote>
+</ng-container>
