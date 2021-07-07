@@ -36,3 +36,6 @@ without any configuration changes. (https://www.litedb.org/)
 * Get User - Get http://localhost:24841/api/user/{id}
   * This is a protected api and needs a Jwt Bearer token.
   * {id} - e.g. 62a8494e-38b7-4153-8000-faa7d398baf5
+  
+**App Screenshots**  
+	[Bilbayt CodeTestApp Screenshots.pdf](Documentation/Bilbayt-CodeTestApp-Screenshots.pdf)
