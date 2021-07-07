@@ -38,4 +38,4 @@ without any configuration changes. (https://www.litedb.org/)
   * {id} - e.g. 62a8494e-38b7-4153-8000-faa7d398baf5
   
 **App Screenshots**  
-	[Bilbayt CodeTestApp Screenshots.pdf](Documentation/Bilbayt-CodeTestApp-Screenshots.pdf)
+	[Bilbayt CodeTestApp Screenshots.pdf](FullStackCodeTest-v21.07/Documentation/Bilbayt-CodeTestApp-Screenshots.pdf)
