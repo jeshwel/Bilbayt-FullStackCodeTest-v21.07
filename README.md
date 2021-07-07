@@ -1,4 +1,4 @@
-# Bilbayt-FullStackCodeTest-v21.07
+# Bilbayt FullStackCodeTest-v21.07
 Code Test
 
 1. We would like you to create a web API project on .NET Core which will have these pages below;
